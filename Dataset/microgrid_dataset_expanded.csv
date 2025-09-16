@@ -1,0 +1,28 @@
+prompt,answer
+What is the recommended battery charge if the load is 5 kW and battery capacity is 20 kWh for 3 hours?,You need at least 15 kWh of charge to supply a 5 kW load for 3 hours. Charging to 75% is recommended.
+How should I adjust the solar panel tilt in summer for latitude 30 degrees?,"For summer, subtract about 15 degrees from the latitude. The tilt should be around 15 degrees."
+What is the efficiency drop if battery temperature increases by 10°C?,Battery efficiency usually drops by about 1–3% for every 10°C rise in temperature.
+How is grid frequency affected if load suddenly increases by 20%?,A sudden load increase can cause frequency to drop until generation compensates. The drop depends on inverter response and grid inertia.
+What is the optimal tilt angle for solar panels at latitude 45 degrees during winter?,"In winter, add about 15 degrees to the latitude. So the tilt should be around 60 degrees."
+"If a 10 kWh battery is at 40% SOC, how much usable energy is left?","At 40% state of charge, the usable energy is about 4 kWh."
+What is the expected daily solar generation if irradiance is 5 kWh/m² and panel area is 10 m² with 20% efficiency?,The energy generated = irradiance × area × efficiency = 5 × 10 × 0.2 = 10 kWh per day.
+Why does battery efficiency decrease at higher discharge rates?,"At higher discharge rates, internal resistance causes heat losses, reducing effective efficiency."
+How can load shifting improve grid stability in a microgrid?,"Load shifting moves demand to off-peak times, reducing stress during high load and helping maintain frequency stability."
+What happens to solar panel efficiency when temperature rises from 25°C to 45°C?,"Solar panel efficiency decreases with temperature. On average, it drops by 0.3–0.5% per °C, so about 6–10% loss in this case."
+What role does weather forecasting play in solar generation planning?,"Weather forecasts help predict available solar irradiance, enabling better load planning and energy storage management."
+How does temperature affect battery charging time?,Higher temperatures can reduce charging time but may also accelerate degradation. Cooler temperatures increase charging time.
+How do I calculate the required battery capacity for a load of 10 kW over 4 hours?,Multiply the load by the hours: 10 × 4 = 40 kWh. This is the minimum capacity needed.
+How do I calculate the energy loss due to wiring resistance?,"Use the formula P_loss = I² × R, where I is the current and R is the resistance of the wiring."
+Why is it important to monitor grid frequency in a microgrid?,"Monitoring frequency helps ensure stability, prevent outages, and coordinate supply with demand."
+How do I calculate the required battery capacity for a load of 10 kW over 1 hours?,Multiply the load by the hours: 10 × 1 = 10 kWh. This is the minimum capacity needed.
+How does inverter efficiency affect total system output?,Inverter efficiency determines how much DC power from solar panels is converted to usable AC power. Lower efficiency means more losses.
+What is the effect of shading on solar panel performance?,"Shading reduces solar irradiance reaching the panel, leading to lower power output and efficiency."
+How do I calculate the required battery capacity for a load of 7 kW over 4 hours?,Multiply the load by the hours: 7 × 4 = 28 kWh. This is the minimum capacity needed.
+How do I calculate the required battery capacity for a load of 7 kW over 5 hours?,Multiply the load by the hours: 7 × 5 = 35 kWh. This is the minimum capacity needed.
+How can I maintain battery health over time?,"Maintain proper temperature, avoid deep discharges, and follow manufacturer-recommended charge cycles."
+What is the relationship between irradiance and solar panel output?,Solar panel output is directly proportional to irradiance. Higher irradiance results in more power generation.
+What is the recommended depth of discharge (DoD) for lithium-ion batteries?,"Typically, a DoD of 80% or lower is recommended to prolong battery life and avoid excessive wear."
+How do I calculate the required battery capacity for a load of 3 kW over 4 hours?,Multiply the load by the hours: 3 × 4 = 12 kWh. This is the minimum capacity needed.
+How do I calculate the required battery capacity for a load of 15 kW over 1 hours?,Multiply the load by the hours: 15 × 1 = 15 kWh. This is the minimum capacity needed.
+How do I calculate the required battery capacity for a load of 7 kW over 2 hours?,Multiply the load by the hours: 7 × 2 = 14 kWh. This is the minimum capacity needed.
+How do I calculate the required battery capacity for a load of 3 kW over 2 hours?,Multiply the load by the hours: 3 × 2 = 6 kWh. This is the minimum capacity needed.
